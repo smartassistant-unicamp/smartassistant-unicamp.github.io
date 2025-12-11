@@ -13,22 +13,31 @@ id = ''
 [pagination]
 pagerSize = 20
 
-[languages.en]
-contentDir = "content/en"
-languageCode = 'en-US'
-weight = 1
-title = "Smart Assistant"
-
-[languages.pt]
-contentDir = "content/pt"
-languageCode = 'pt-BR'
-weight = 2
-title = "Smart Assistant"
-
-[sitemap]
-changefreq = "monthly"
-priority = 0.5
-filename = "sitemap.xml"
-
 [params]
 site_logo = "./static/img/eagle.png"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 2
+
+[[menu.main]]
+name = "Learn"
+url = "/learn/"
+weight = 3
+background_color_class = "bg-dark-blue"
+
+[[menu.main]]
+name = "Partners"
+url = "/partners"
+weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
