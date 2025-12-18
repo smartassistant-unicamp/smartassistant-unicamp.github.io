@@ -13,23 +13,14 @@ EAGLE is a framework for developing multiagent systems based upon cognitive mech
 
 
 # Team
-{{<about-team>}}
-img: /img/team/julio-reis.png
-name: Prof. Dr. Julio dos Reis
-title: Pesquisador Titular
----
-img: /img/team/fulano.png
-name: Prof. Dr. Fulano
-title: Pesquisador Associado
----
-img: /img/team/sicrano.png
-name: Prof. Dr. Sicrano
-title: Pesquisador Colaborador
----
-img: /img/team/beltrano.png
-name: Prof. Dr. Beltrano
-title: Pesquisador Visitante
-{{</about-team>}}
+
+{{<team-columns columns="4">}}
+    {{<team img="/img/team/julio-reis.png" title="Prof. Dr. Julio dos Reis" subtitle="Pesquisador Titular">}}
+    {{<team img="/img/team/julio-reis.png" title="Prof. Dr. Julio dos Reis" subtitle="Pesquisador Titular">}}
+    {{<team img="/img/team/julio-reis.png" title="Prof. Dr. Julio dos Reis" subtitle="Pesquisador Titular">}}
+    {{<team img="/img/team/julio-reis.png" title="Prof. Dr. Julio dos Reis" subtitle="Pesquisador Titular">}}
+{{</team-columns>}}
+
 
 # Form contact
-{{<form-contact>}}
+{{<form-contact action="https://formspree.io/f/SEU_ID_AQUI">}}

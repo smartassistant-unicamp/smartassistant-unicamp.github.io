@@ -1,0 +1,9 @@
+<div style="display: flex; align-items: flex-start; gap: 2em; margin: 2em 0;">
+    <div style="flex: 0 0 150px;">
+        <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" style="width:150px;max-width:100%;object-fit:contain;">
+    </div>
+    <div style="flex: 1;">
+        <h2>{{ .Get "title" }}</h2>
+        <p>{{ .Inner | markdownify }}</p>
+    </div>
+</div>
