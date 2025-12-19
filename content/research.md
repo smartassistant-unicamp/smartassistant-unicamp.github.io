@@ -1,8 +1,23 @@
 +++
-date = '2025-12-09T14:28:08-03:00'
-title = 'Research'
-featured_image = './img/website/cover.jpg'
 draft = false
 url = "/research"
 summary = ""
 +++
+
+# Orquestrating Cognitive LLM Agents
+
+LLM-based multi-agent systems still face several key challenges that impact their effectiveness and scalability. One of the main challenges is ensuring seamless communication and coordination among agents, as these systems often involve complex interactions across various tasks and domains. We have developed robust mechanisms for synchronization and negotiation, enabling LLM conversational agents to understand and respond to each other’s actions in real time. We propose a novel multi-agent system architecture where LLM-powered cognitive agents interact to analyze data effectively. Each agent within the system is designed to perform specialized roles, such as communication, coordination, and code generation, enabling task distribution and cooperative problem-solving. Unlike monolithic AI systems, our proposal promotes modularity and scalability, ensuring that individual agents can evolve independently while collaborating with other agents.
+
+# Planning in LLM-based cognitive Multiagent Systems
+
+Plan generation refers to selecting actions at a given moment from a set of possible actions within a defined environment and objective, requiring agents not only to perceive environmental conditions but also to account for other agents' plans. We have developed effective planning strategies to anticipate and adapt to unexpected environmental changes, particularly in dynamic or physical settings. These strategies consider both deriving plans to task-driven agents, leveraging different strategies towards a specific goal and designing orchestration paradigms in which one agent has to best organize a group of distinct task-driven agents. Efficient plan generation is closely tied to [Memory Systems], especially when considering the use of external modules to access plan guidelines, elaborated by human specialists, to aid the agent in predetermined scenarios. Moreover, this approach can also be extended to optimize these guidelines based upon plan success or fail, thus corroborating with a cocreation of plans with humans and LLM agents. 
+
+# Memory in LLM Agents
+
+LLM agents increasingly incorporate external memory to support long-term reasoning, adaptation, and task generalization. Prior research has examined reflective memory for self-evaluation and semantic memory for storing abstracted knowledge, but the interaction between these components has received limited attention. We introduce a unified memory architecture for LLM agents in which reflection and semantic memory co-evolve to improve agents' lifelong learning capabilities. Our approach leverages reflection as a signal for curation of semantic memory consolidation, enabling selective strengthening, stabilization, and forgetting of stored long-term knowledge. Conversely, we propose a semantic-augmented reflection mechanism in which retrieved semantic knowledge enriches the agent's self-critique, yielding more profound, more transferable insights. Our project further investigates approaches to forgetting in episodic memory and how to integrate distinct memory types via working memory mechanisms.
+
+# Systematic Evaluation of LLM-based Multi-agent Systems
+The rapid evolution of LLM-based Multi-Agent Systems (MAS) has intensified the need for standardized assessment protocols, as current practices frequently lack the methodological rigor required to evaluate complex tasks. This research addresses this gap through a systematic literature review, establishing a comprehensive taxonomy that categorizes evaluation methods, metrics, and specialized tools. By differentiating between individual agent competencies such as reasoning and tool use and collective emergent behaviors like coordination and communication efficiency, the study identifies the essential requirements for a robust evaluation framework. Furthermore, the integration of Ethical, Legal, and Social Aspects (ELSA) ensures that technical performance is balanced with responsible AI principles. This approach moves beyond traditional “LLM-as-a-Judge” paradigms, providing a reproducible, domain-agnostic standard that enhances observability and traceability across diverse agentic ecosystems.
+
+# O&G Benchmark Construction
+Development of structured benchmarks and datasets to evaluate and calibrate the performance of large language models (LLMs) and multi-agent systems, as well as ontology engineering. This initiative is focused on the oil and gas domain, specifically within the context of Floating Production Storage and Offloading (FPSO) units. The process aims to construct a representative set of real-world scenarios, operational decisions, and technical contexts that reflect the complexity of activities carried out onboard offshore production facilities.

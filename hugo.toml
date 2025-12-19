@@ -21,7 +21,7 @@ github = "https://github.com/smartassistant-unicamp"
 [menu]
     [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/about"
     weight = 1
 
     [[menu.main]]
@@ -50,6 +50,6 @@ github = "https://github.com/smartassistant-unicamp"
     weight = 6
 
     [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Contact"
+    url = "/contact"
     weight = 7

@@ -3,25 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/awards/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
     <loc>//localhost:1313/members/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/products/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publications/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/research/</loc>
-    <lastmod>2025-12-09T14:28:08-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>

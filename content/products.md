@@ -1,14 +1,11 @@
 +++
-date = '2025-12-09T14:28:08-03:00'
-title = 'Products'
-featured_image = './img/website/cover.jpg'
 draft = false
 url = "/products"
 summary = ""
 +++
 
-{{<image-text-row img="/img/products/eagle.png" title="Eagle">}}
-EAGLE (Enhanced Agents for Generative Language Excellence) is a complete framework for developing multi-agent systems based upon cognitive mechanisms. EAGLE is currently being developed in Python 3 on top of LangGraph. 
+{{<image-text-row img="/img/products/eagle.png" title="Eagle">}} 
+EAGLE (Enhanced Agents for Generative Language Excellence) is a framework for developing multiagent systems based upon cognitive mechanisms. It was inspired by the conceptual framework presented in Cognitive Architectures for Language Agents (CoALA). EAGLE is currently being developed in Python 3 on top of LangGraph.
 {{</image-text-row>}}
 
 {{<image-text-row img="/img/products/multiagent-framework.png" title="Multiagent Framework Evaluation">}}

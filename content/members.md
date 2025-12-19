@@ -1,7 +1,4 @@
 +++
-date = '2025-12-09T14:28:08-03:00'
-title = 'Members'
-featured_image = './img/website/cover.jpg'
 draft = false
 url = "/members"
 summary = ""
