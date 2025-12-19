@@ -1,4 +1,0 @@
-{{- $columns := .Get "columns" | default "4" -}}
-<div style="display: grid; grid-template-columns: repeat({{ $columns }}, 1fr); gap: 2em; margin: 2em 0; justify-items: center;">
-    {{ .Inner }}
-</div>
