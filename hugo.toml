@@ -15,12 +15,13 @@ pagerSize = 20
 
 [params]
 site_logo = ""
+site_footer = ""
 favicon = "./img/favicon.ico"
 github = "https://github.com/smartassistant-unicamp"
 
 [menu]
     [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/about"
     weight = 1
 

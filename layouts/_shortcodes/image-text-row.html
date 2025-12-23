@@ -3,7 +3,11 @@
         <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" style="width:120px;height:120px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
     </div>
     <div style="flex: 1;">
-        <h3>{{ .Get "title" }}</h3>
+        {{ with .Get "url" }}
+            <h3><a href="{{ . }}" target="_blank" rel="noopener">{{ $.Get "title" }}</a></h3>
+        {{ else }}
+            <h3>{{ $.Get "title" }}</h3>
+        {{ end }}
         <p>{{ .Inner | markdownify }}</p>
     </div>
 </div>

@@ -5,51 +5,51 @@ summary = ""
 +++
 
 # Principal Investigator
-{{<image-text-row img="/img/members/julio-reis.png" title="Prof. Dr. Julio Cesar dos Reis">}}Associate Professor at the Institute of Computing, University of Campinas (UNICAMP). He was a Research Assistant at the Luxembourg Institute of Science and Technology, Luxembourg. He holds a Habilitation in Computer Science from UNICAMP (2020), a Ph.D. in Computer Science from the University of Paris-Sud XI, France (2014), a Master's degree in Computer Science from IC/UNICAMP (2011), and a Technologist degree in Informatics from the Faculty of Technology, UNICAMP (2008). His research interests include Natural Language Understanding, Generative and Agentic Artificial Intelligence, Knowledge Graphs, Computational Ontologies, Semantic Information Retrieval and Representation, and Human-AI Interaction.
+{{<image-text-row img="/img/members/julio-reis.png" title="Prof. Dr. Julio Cesar dos Reis" url="http://lattes.cnpq.br/2971609673131726">}} Associate Professor at the Institute of Computing, University of Campinas (UNICAMP). Worked as a Research Assistant at the Luxembourg Institute of Science and Technology, Luxembourg. He holds a Habilitation in Computer Science from UNICAMP (2020), a Ph.D. in Computer Science from the University of Paris-Sud XI, France (2014), an MSc. in Computer Science from IC/UNICAMP (2011), and a B. Tech. in Informatics from the Faculty of Technology, UNICAMP (2008). His research interests include Natural Language Understanding, Generative and Agentic Artificial Intelligence, Knowledge Graphs, Computational Ontologies, Semantic Information Retrieval and Representation, and Human-AI Interaction.
 {{</image-text-row>}}
 
 
 
 
 # Co-Principal Investigator
-{{<image-text-row img="/img/members/jose-ricardo.png" title="Prof. Dr. José Ricardo Pelaquim Mendes">}}Associate Professor in the Faculty of Mechanical Engineering at the University of Campinas (UNICAMP), Brazil. He received his B.S. degree in Physics from UNICAMP in 1995, followed by his M.S. (1998) and Ph.D. (2001) degrees in Petroleum Engineering, also from UNICAMP. His research interests include drilling engineering, well completion, tubular mechanics, and well integrity
+{{<image-text-row img="/img/members/jose-ricardo.png" title="Prof. Dr. José Ricardo Pelaquim Mendes" url="http://lattes.cnpq.br/4044964119019617">}}Associate Professor in the Faculty of Mechanical Engineering at the University of Campinas (UNICAMP), Brazil. He received his B.S. in Physics from UNICAMP in 1995, followed by his M.S. (1998) and Ph.D. (2001) in Petroleum Engineering from UNICAMP. His research interests include drilling engineering, well completion, tubular mechanics, and well integrity.
 {{</image-text-row>}}
 
 
 
 
 # Associate Researchers
-{{<image-text-row img="/img/members/leandro-villas.png" title="Prof. Dr. Leandro Aparecido Villas">}}He is an Associate Professor II at the Institute of Computing, University of Campinas (UNICAMP), a CNPq Research Productivity Fellow (Level 1D), and coordinator of the (H.IAAC) Hub for Artificial Intelligence and Cognitive Architectures at UNICAMP. He has coordinated research projects totaling more than fifty million reais from funding agencies and the private sector. He is co-author of over 80 journal articles, four book chapters, and more than 200 conference articles. Leandro was Undergraduate Coordinator and Associate Director at IC/UNICAMP, and is currently the Director. He received 36 awards and was named among the Top 2 most influential scientists by Stanford.
+{{<image-text-row img="/img/members/leandro-villas.png" title="Prof. Dr. Leandro Aparecido Villas" url="http://lattes.cnpq.br/9830590737740134">}}Associate Professor at the Institute of Computing, University of Campinas (UNICAMP), a CNPq Research Productivity Fellow (Level 1D), and coordinator of the (H.IAAC) Hub for Artificial Intelligence and Cognitive Architectures at UNICAMP. Currently Director at IC/UNICAMP. He is a co-author of over 80 journal articles, four book chapters, and more than 200 conference articles.
 {{</image-text-row>}}
 
-{{<image-text-row img="/img/members/allan-mariano.png" title="Prof. Dr. Allan Mariano">}}Professor at the Institute of Computing, State University of Campinas (UNICAMP). He holds a degree in Computer Science from Eurípedes de Marília University Center (2013), a master's (2016) and doctorate (2021) in Computer Science from UNICAMP, with joint supervision at the University of Bern, Switzerland. His research areas include Intelligent Transportation Systems, Machine Learning, Distributed Systems, and Vehicular Networks. His master's and doctoral theses received awards from UNICAMP, the University of Bern, and the Brazilian Computer Society. He also received first place in the Latin American Doctoral Thesis Competition (CLTD) and an honorable mention in the 2022 CAPES Thesis Award.
+{{<image-text-row img="/img/members/allan-mariano.png" title="Prof. Dr. Allan Mariano" url="http://lattes.cnpq.br/4615959094966133">}}Assistant Professor at the Institute of Computing, University of Campinas (UNICAMP). He holds a degree in Computer Science from Eurípedes de Marília University Center (2013), a master’s (2016) and doctorate (2021) in Computer Science from UNICAMP, with joint supervision at the University of Bern, Switzerland. His research areas include Intelligent Transportation Systems, Machine Learning, Distributed Systems, and Vehicular Networks. His master’s and doctoral theses received awards from UNICAMP, the University of Bern, and the Brazilian Computer Society.
 {{</image-text-row>}}
 
 
 
 
 # Postdoctoral Researchers
-{{<image-text-row img="/img/members/eryck-pedro.png" title="Dr. Eryck Pedro da Silva">}}Holds a Bachelor's degree in Computer Science from the Federal University of Rio de Janeiro (2016), a Master's degree in Informatics from the Federal University of Rio de Janeiro (2019), and a Doctorate in Computer Science from the State University of Campinas (2024). Has experience in the field of Computer Science, with an emphasis on Computer Science Education and Informatics Applied to Teaching.
+{{<image-text-row img="/img/members/eryck-pedro.png" title="Dr. Eryck Pedro da Silva" url="http://lattes.cnpq.br/4106945354159329">}}He received the B.Sc. degree in computer science in 2016 and the M.Sc. degree in Informatics in 2017, both from the Federal University of Rio de Janeiro (Brazil), and the Ph.D. degree in computer science from the Universidade Estadual de Campinas (Brazil) in 2024. Dr. Eryck has previously conducted research on educational informatics, particularly in computer science education, and has developed educational artifacts for K-12 and undergraduate students in introductory programming. Among his current interests are Computer Science Education, Artificial Intelligence in Education, and Formative Assessment.
 {{</image-text-row>}}
 
 
 
 
 # Assistant Researchers & Specialists
-{{<image-text-row img="/img/members/frances-santos.png" title="Dr. Frances Santos">}}Artificial Intelligence Manager at Sinch AB (https://www.sinch.com/). In 2024, he received his PhD in Computer Science from the State University of Campinas (UNICAMP), with a sandwich doctorate at the University of Ottawa, Canada (2018), granted by PDSE/CAPES - Process: 88881.132016/2016-01. In 2017, he was a visiting researcher for six months at Ontario Tech University, Canada, through the Emerging Leader in the Americas Program (ELAP). His research interests include Social Network Analysis and Mining, Natural Language Processing, Generative AI, and Machine Learning.
+{{<image-text-row img="/img/members/frances-santos.png" title="Dr. Frances Santos" url="http://lattes.cnpq.br/3553049694618182">}}Data & AI Solutions Manager at 4flow. He previously served as Artificial Intelligence Manager at Sinch AB until October 2025. Ph.D. in Computer Science from the University of Campinas (2024), with a sandwich doctorate at the University of Ottawa, Canada.Visiting researcher for six months at Ontario Tech University, Canada, in 2017. His research interests include Social Network Analysis and Mining, Natural Language Processing, Generative AI, and Machine Learning.
 {{</image-text-row>}}
 
-{{<image-text-row img="/img/members/aissa-mohamed.png" title="M.Sc. Aissa Hadj Mohamed">}}
+{{<image-text-row img="/img/members/aissa-mohamed.png" title="M.Sc. Aissa Hadj Mohamed" url="http://lattes.cnpq.br/4521651322960419">}}Computer Scientist with a Master’s degree in Computer Science from the University of Campinas and a Bachelor’s degree in Mathematics from the University of Ottawa. His background includes deep learning, federated learning, and applied statistics. Currently investigating Large Language Model (LLM) agents, focusing on memory reflection mechanisms to improve their effectiveness and reliability in real-world applications.
 {{</image-text-row>}}
 
-{{<image-text-row img="/img/members/unknown.png" title="Carlos Mazzuco">}}
+{{<image-text-row img="/img/members/unknown.png" title="Carlos Mazzuco" url="">}}Electrical Engineer graduated from Mackenzie Presbyterian University and holds a Master's in Electrical Engineering from the University of Campinas, specializing in Petroleum Engineering. He worked for 38 years at Petrobras in various areas of the offshore oil and gas industry. For the past 4 years he has worked as an independent consultant.
 {{</image-text-row>}}
 
 
 
 
-# MS.c. Students
-{{<images-row column="4">}}
+# M.Sc. Students
+{{<images-row columns="3">}}
     {{<image-column img="/img/members/ronaldinho-oliveira.png" title="Ronaldinho Vega Centeno Olivera" subtitle="">}}
     {{<image-column img="/img/members/renan-morais.jpeg" title="Renan dos Santos Morais" subtitle="">}}
     {{<image-column img="/img/members/rodrigo-flexa.png" title="Rodrigo Gonçalves Flexa" subtitle="">}}
@@ -61,7 +61,7 @@ summary = ""
 
 
 # Undergraduate Students
-{{<images-row column="4">}}
+{{<images-row columns="4">}}
     {{<image-column img="/img/members/gabriel-barros.png" title="Gabriel Lopes de Barros" subtitle="">}}
     {{<image-column img="/img/members/guilherme-monteiro.png" title="Guilherme Monteiro" subtitle="">}}
     {{<image-column img="/img/members/joao-henrique-costa.jpg" title="João Henrique Mendes da Costa" subtitle="">}}
@@ -81,7 +81,7 @@ summary = ""
 
 
 # Other Former Participants
-{{<images-row column="4">}}
+{{<images-row columns="4">}}
     {{<image-column img="/img/members/unknown.png" title="Felipe Barroso" subtitle="">}}
     {{<image-column img="/img/members/unknown.png" title="Ana Luiza Regia Angelloti Carmo" subtitle="">}}
     {{<image-column img="/img/members/unknown.png" title="Lucas de Almeida" subtitle="">}}
