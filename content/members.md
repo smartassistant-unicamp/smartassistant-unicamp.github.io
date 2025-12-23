@@ -82,7 +82,7 @@ summary = ""
 
 
 
-# Other Former Participants
+# Former Participants
 {{<images-row columns="4">}}
     {{<image-column img="/img/members/unknown.png" title="Felipe Barroso" subtitle="">}}
     {{<image-column img="/img/members/unknown.png" title="Ana Luiza Regia Angelloti Carmo" subtitle="">}}

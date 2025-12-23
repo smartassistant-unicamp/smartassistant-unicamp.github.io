@@ -4,7 +4,7 @@ url = "/contact"
 summary = ""
 +++
 
-## Professors responsible for the project:
+## Professors responsible for the project
 
 {{<image-text-row img="/img/members/julio-reis.png" title="Prof. Dr. Julio Cesar dos Reis">}}[dosreis@unicamp.br](malito:dosreis@unicamp.br)
 {{</image-text-row>}}
