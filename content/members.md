@@ -55,7 +55,7 @@ summary = ""
     {{<image-column img="/img/members/rodrigo-flexa.png" title="Rodrigo Gonçalves Flexa" subtitle="">}}
 {{</images-row>}}
 {{<images-row columns="3">}}
-    {{<image-column img="/img/members/mateus-edival.png" title="Mateus Edival Rodrigues da Silveira" subtitle="">}}
+    {{<image-column img="/img/members/mateus-edival.PNG" title="Mateus Edival Rodrigues da Silveira" subtitle="">}}
     {{<image-column img="/img/members/alejandro-arroyo.png" title="Alejandro Núñez Arroyo" subtitle="">}}
 {{</images-row>}}
 
