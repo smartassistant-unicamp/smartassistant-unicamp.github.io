@@ -53,6 +53,8 @@ summary = ""
     {{<image-column img="/img/members/ronaldinho-oliveira.png" title="Ronaldinho Vega Centeno Olivera" subtitle="">}}
     {{<image-column img="/img/members/renan-morais.jpeg" title="Renan dos Santos Morais" subtitle="">}}
     {{<image-column img="/img/members/rodrigo-flexa.png" title="Rodrigo Gonçalves Flexa" subtitle="">}}
+{{</images-row>}}
+{{<images-row columns="3">}}
     {{<image-column img="/img/members/mateus-edival.png" title="Mateus Edival Rodrigues da Silveira" subtitle="">}}
     {{<image-column img="/img/members/alejandro-arroyo.png" title="Alejandro Núñez Arroyo" subtitle="">}}
 {{</images-row>}}
