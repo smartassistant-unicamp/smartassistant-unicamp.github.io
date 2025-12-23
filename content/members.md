@@ -42,7 +42,7 @@ summary = ""
 {{<image-text-row img="/img/members/aissa-mohamed.png" title="M.Sc. Aissa Hadj Mohamed" url="http://lattes.cnpq.br/4521651322960419">}}Computer Scientist with a Master’s degree in Computer Science from the University of Campinas and a Bachelor’s degree in Mathematics from the University of Ottawa. His background includes deep learning, federated learning, and applied statistics. Currently investigating Large Language Model (LLM) agents, focusing on memory reflection mechanisms to improve their effectiveness and reliability in real-world applications.
 {{</image-text-row>}}
 
-{{<image-text-row img="/img/members/unknown.png" title="Carlos Mazzuco" url="">}}Electrical Engineer graduated from Mackenzie Presbyterian University and holds a Master's in Electrical Engineering from the University of Campinas, specializing in Petroleum Engineering. He worked for 38 years at Petrobras in various areas of the offshore oil and gas industry. For the past 4 years he has worked as an independent consultant.
+{{<image-text-row img="/img/members/carlos-mazzuco.png" title="Carlos Mazzuco" url="">}}Electrical Engineer graduated from Mackenzie Presbyterian University and holds a Master's in Electrical Engineering from the University of Campinas, specializing in Petroleum Engineering. He worked for 38 years at Petrobras in various areas of the offshore oil and gas industry. For the past 4 years he has worked as an independent consultant.
 {{</image-text-row>}}
 
 
