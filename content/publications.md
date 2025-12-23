@@ -4,6 +4,7 @@ url = "/publications"
 summary = ""
 +++
 
+# 2025
 -   SANTOS, F. A.; VILLAS, L. A.; DOS REIS, J. C. (2025). Memory Approaches for LLM-based Agents: A Comparative Study of In-Context and Episodic Architectures. In the Proceedings of the 1st International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS). Part of the 17th International Joint Conference on Computational Intelligence (IJCCI’25). Marbella, Spain.
 
 -   MOHAMED, A. H.; VILLAS, L. A.; DOS REIS, J. C. (2025). Leveraging LLM Reflection to Improve Small Language Model Agents’ Capabilities. In the Proceedings of the 1st International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS). Part of the 17th International Joint Conference on Computational Intelligence (IJCCI’25). Marbella, Spain.
