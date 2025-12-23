@@ -1,0 +1,11 @@
+body,
+.content,
+.markdown,
+main,
+.post-content,
+.prose,
+article,
+.nested-copy-line-height,
+.lh-copy {
+    font-family: Arial, 'Helvetica Neue', Helvetica, Calibri, sans-serif !important;
+}
